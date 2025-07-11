@@ -1,2 +1,2 @@
-# Chatbot Trợ lý AI
+# Trợ lý AI
 
